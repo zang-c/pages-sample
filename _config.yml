@@ -29,7 +29,7 @@ url: "https://zang-c.github.io" # the base hostname & protocol for your site, e.
 github_username:  zang-c
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
